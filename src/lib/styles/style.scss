@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background: white;
+    color: #333;
+    font-family: sans-serif;
+}
+
+main {
+    padding: 1rem;
+    margin: 1rem auto;
+    max-width: 60rem;
+}
+
+a.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: lightskyblue;
+    text-transform: uppercase;
+    font-size: 4em;
+    font-weight: 100;
+}
+
+a.post {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: lightskyblue;
+    text-transform: uppercase;
+    font-size: 1em;
+    font-weight: 100;
+}
+
+.footer {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: lightskyblue;
+    text-transform: uppercase;
+    font-size: 4em;
+    font-weight: 100;
+    margin: 0;
+}
