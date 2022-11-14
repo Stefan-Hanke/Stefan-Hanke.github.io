@@ -1,4 +1,9 @@
 # Stefan-Hanke.github.io
 
-[MD Link]({% post_url 2022-11-14-Frontmatter %});
-[MD Link2]({% post_url 2022-11-14-SITE2 %});
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
