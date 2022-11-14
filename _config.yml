@@ -1,3 +1,5 @@
+site.title: asdf
+site.description: it's complicated
 site.show_downloads: false
 remote_theme: pages-themes/merlot@v0.2.0
 plugins:
