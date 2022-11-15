@@ -1,5 +1,3 @@
-# Stefan-Hanke.github.io
-
 # Posts:
 
 <ul>
